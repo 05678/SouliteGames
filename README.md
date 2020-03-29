@@ -1,0 +1,2 @@
+# SouliteGames
+Discord bot.
